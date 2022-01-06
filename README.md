@@ -4,21 +4,21 @@ This repository contains python code that can efficiently compute topological in
 
 Here are some images of the plots that can be produced with the code:
 
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/QWZ Winding$m$=-2.4.jpg?raw=true)
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/QWZ_Winding.jpg?raw=true)
+
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Edge_states.jpg?raw=true)
+
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane_phase_diagram.jpg?raw=true)
+
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry_connectionx.jpg?raw=true)
+
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry_connectiony.jpg?raw=true)
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry_curvature.jpg?raw=true)
 
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry connectionx$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane_dispersionl.jpg?raw=true)
 
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry connectiony$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane_dispersionu.jpg?raw=true)
 
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane dispersiond$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
-
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane dispersionl$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
-
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane dispersionu$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
-
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry curvature$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
-
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/3DBerry curvature$m$=0.1, $\phi$=1.57, $t_2$=0.1.jpg?raw=true)
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/3DBerry_curvature.jpg?raw=true)
 
