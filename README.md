@@ -4,7 +4,7 @@ This repository contains python code that can efficiently compute topological in
 
 Here are some images of the plots that can be produced with the code:
 
-![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/QWZ_Winding.jpg?raw=true)
+![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/QWZ_Winding_num.jpg?raw=true)
 *Image of the First Brouillin zone under the QWZ hamiltonian*
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane_dispersionl.jpg?raw=true)
