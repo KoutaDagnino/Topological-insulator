@@ -32,4 +32,3 @@ Here are some images of the plots that can be produced with the code:
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Edge_states.jpg?raw=true)
 *Edge states of the Haldane model in a finite graphene zig-zag nanoribbon*
 
-
