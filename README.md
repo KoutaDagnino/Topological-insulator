@@ -4,4 +4,4 @@ This repository contains python code that can efficiently compute topological in
 
 Here are some images of the plots that can be produced with the code:
 
-![alt text](https://github.com/KoutaDagnino/Topological-insulator/tree/main/images/Berry_curvature.jpg?raw=true)
+![Alt text](KoutaDagnino/Topological-insulator/tree/main/images/Berry_curvature.jpg?raw=true)
