@@ -20,7 +20,7 @@ Here are some images of the plots that can be produced with the code:
 *Berry connection y-component in the Haldane model*
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Berry_curvature.jpg?raw=true)
-*Berry curvature in the Haldane model*
+*Berry curvature in the Haldane model with the Berry connection vector field plotted in the background*
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/3DBerry_curvature.jpg?raw=true)
 *3D plot of the Berry curvature in the Haldane model*
