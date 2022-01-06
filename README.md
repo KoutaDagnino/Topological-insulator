@@ -26,6 +26,7 @@ Here are some images of the plots that can be produced with the code:
 *3D plot of the Berry curvature in the Haldane model*
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Haldane_phase_diagram.jpg?raw=true)
+
 *Phase diagram of the haldane model with t2/t1=0.2*
 
 ![Alt text](https://github.com/KoutaDagnino/Topological-insulator/blob/main/Images/Edge_states.jpg?raw=true)
